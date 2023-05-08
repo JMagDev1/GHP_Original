@@ -1,20 +1,26 @@
+.btn-submit-1{
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+    border-radius: 20px;
+}
+
 .btn-submit{
     display: flex;
 	align-items: center;
 	justify-content: center;
-    margin-left: 750px;
-    margin-top: 250px;
+    margin-top: 50px;
+}
+
+.txtbx-1{
     font-family: 'Trebuchet MS';
     font-size: 25px;
-
+    border-radius: 20px;
+    width: 500px;
 }
 
 .txtbx{
     display: flex;
 	align-items: center;
 	justify-content: center;
-    margin-left: 400px;
     margin-top: 250px;
-    font-family: 'Trebuchet MS';
-    font-size: 25px;
 }
