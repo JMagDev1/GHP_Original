@@ -30,3 +30,32 @@ body{
 	justify-content: center;
     margin-top: 250px;
 }
+
+.shortcut-container{
+    width: 1000px;
+    height: 500px;
+    margin-left: 450px;
+}
+
+.shortcut{
+    color: white;
+    background-color: steelblue;
+    font-size: 25px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+    width: 250px;
+    height: 100px;
+}
+
+.shortcut:hover{
+    transform: scale(102%);
+}
+
+.right{
+    margin-top: -250px;
+    margin-left: 300px;
+}
+
+.left{
+    margin-top: 20px;
+}
