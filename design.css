@@ -1,5 +1,6 @@
 body{
     background-color: darkslategrey;
+    overflow: hidden;
 }
 
 .btn-submit-1{
